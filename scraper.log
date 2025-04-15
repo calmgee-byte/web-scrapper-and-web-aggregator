@@ -1,0 +1,25 @@
+2025-04-14 15:04:57,029 - INFO - Starting job scrape...
+2025-04-14 15:04:58,535 - INFO - Scraping completed and saved to scraped_data.csv
+2025-04-14 15:05:10,359 - INFO - Starting job scrape...
+2025-04-14 15:05:11,550 - ERROR - Unexpected error: No columns to parse from file
+2025-04-14 15:05:31,070 - INFO - Starting job scrape...
+2025-04-14 15:05:32,101 - ERROR - Unexpected error: No columns to parse from file
+2025-04-14 15:07:08,179 - INFO - Starting job scrape...
+2025-04-14 15:07:09,289 - ERROR - Unexpected error: No columns to parse from file
+2025-04-14 15:53:49,542 - INFO - Web scraper started.
+2025-04-14 15:56:33,002 - INFO - Web scraper started.
+2025-04-15 09:38:24,899 - INFO - Web scraper started.
+2025-04-15 09:56:05,046 - INFO - Web scraper started.
+2025-04-15 10:01:16,955 - INFO - Web scraper started.
+2025-04-15 10:08:36,214 - INFO - Successfully scraped job data.
+2025-04-15 10:08:36,216 - INFO - Web scraper started.
+2025-04-15 10:13:13,237 - INFO - Successfully scraped job data.
+2025-04-15 10:13:13,238 - INFO - Web scraper started.
+2025-04-15 10:15:58,326 - INFO - Successfully scraped job data.
+2025-04-15 10:15:58,326 - INFO - Web scraper started.
+2025-04-15 11:54:57,557 - INFO - Successfully scraped job data.
+2025-04-15 12:01:08,713 - INFO - Successfully scraped job data.
+2025-04-15 12:01:08,714 - INFO - Web scraper started.
+2025-04-15 12:05:39,729 - INFO - Successfully scraped job data.
+2025-04-15 12:05:39,826 - INFO - Data successfully saved to C:\Users\uncommonstudent\OneDrive\Desktop\Web Scrapper & Data Aggregator\scraped_data.csv
+2025-04-15 12:05:39,828 - INFO - Web scraper started.
